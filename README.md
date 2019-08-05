@@ -22,20 +22,14 @@ Abra o prompt gitbash, entre na estrutura de sua workspace, apague as pastas exi
 
 ## Configuração do WebDriver
 
-Drivers recomendados:
-
-* Chromedriver:
-
-```sh
-    https://sites.google.com/a/chromium.org/chromedriver/downloads
-```
+Driver recomendado:
 * Geckodriver (Firefox):
 
 ```sh
     https://github.com/mozilla/geckodriver/releases
 ```
 
-* Baixe o driver do seu navegador escolhido (Firefox, Chrome, Safari, etc...) compatível com a versão instalada em sua máquina, e extraia os arquivos baixados para uma pasta de drivers.
+* Baixe o driver do navegador Firefox compatível com a versão instalada em sua máquina (recomenda-se versão mais atual de ambos), e extraia os arquivos baixados para uma pasta de drivers.
 
 * Crie uma variável de ambiente em seu sistema operacional chamada WebDrivers, apontada para a pasta onde estão os drivers baixados.
 
