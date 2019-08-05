@@ -43,10 +43,10 @@ Drivers recomendados:
 
 ## Execução do projeto
 
-Com o eclipse aberto, basta abrir a classe [b]CadastraCurriculo[/b], e executá-la como uma classe Java [i](Run > Run as > Java Application).[/i]
+Com o eclipse aberto, basta abrir a classe **CadastraCurriculo**, e executá-la como uma classe Java *(Run > Run as > Java Application)*.
 
-Caso não possua o eclipse, basta executar o Jar denominado CadastraCurriculo.jar, situado na raiz do diretório do projeto [i](java -jar CadastraCurriculo.jar)[/i].
+Caso não possua o eclipse, basta executar o Jar denominado **CadastraCurriculo.jar**, situado na raiz do diretório do projeto *(java -jar CadastraCurriculo.jar)*.
 
 ## Evidência
 
-A evidência do teste estará na pasta criada dentro da raiz do projeto, chamada "output". Para cada execução, será criado um arquivo de evidência do tipo PNG, com o nome "Evidência" + data e hora atual.
+A evidência do teste estará na pasta criada dentro da raiz do projeto, chamada *"output"*. Para cada execução, será criado um arquivo de evidência do tipo PNG, com o nome *"Evidência"* + data e hora atual.
